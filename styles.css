@@ -208,7 +208,7 @@ a {
   font-weight: 300;
 }
 
-#about {
+.about {
   position: relative;
   bottom: 600px;
 }
@@ -219,7 +219,7 @@ a {
   text-align: center;
 }
 
-#about {
+.about {
   margin-top: -10px;
   text-align: left;
   margin-left: 50px;
@@ -243,4 +243,28 @@ a {
 }
 .me-pic {
     border-radius: 99%;
+}
+
+.p-h1 {
+  display: inline-block;
+}
+
+.words {
+  text-align: left;
+  width: 50%;
+  font-family: 'Mansalva', cursive;
+}
+
+.words {
+  display: inline-flex;
+  float: left;
+  position: relative;
+  bottom: 800px;
+}
+
+.lesson-s{
+  text-align: left;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
 }
